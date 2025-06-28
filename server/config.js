@@ -3,7 +3,7 @@ module.exports = {
 
     // Game server domain.
     // If the host is 'localhost:NUMBER', the NUMBER must be the port setting.
-    host: "cuneiformarras.github.io/Dynarras.io/",
+    host: "cuneiformarras.github.io/Dynarras.io",
 
     // Which port to run the web server on.
     port: 26301,
